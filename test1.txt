@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est 7EEB-9FF0
+
+ R‚pertoire de C:\Users\omar.el_alami1\Desktop\MyprojectGit
+
+2019-01-30  19:56    <REP>          .
+2019-01-30  19:56    <REP>          ..
+2019-01-30  19:56                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  17ÿ927ÿ274ÿ496 octets libres
